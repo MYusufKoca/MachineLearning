@@ -1,4 +1,4 @@
-# Machine Learning iOS App 🤖📱
+# Machine Learning iOS App 
 
 Bu iOS uygulaması, bir makine öğrenimi modelini kullanarak görsel tanıma işlemi yapar. Kullanıcı, cihaz kamerasından ya da galerisinden bir görsel seçer ve CoreML modeli bu görselin ne olduğunu tahmin eder.
 
